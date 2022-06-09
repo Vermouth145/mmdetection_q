@@ -1,0 +1,190 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "005.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     242,
+     518
+    ],
+    [
+     309,
+     708
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     165,
+     535
+    ],
+    [
+     227,
+     710
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     373,
+     482
+    ],
+    [
+     406,
+     569
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     405,
+     488
+    ],
+    [
+     427,
+     558
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     336,
+     484
+    ],
+    [
+     354,
+     546
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     313,
+     489
+    ],
+    [
+     332,
+     547
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     360,
+     499
+    ],
+    [
+     380,
+     544
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     532,
+     487
+    ],
+    [
+     720,
+     615
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     0,
+     543
+    ],
+    [
+     139,
+     691
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     0,
+     597
+    ],
+    [
+     47,
+     775
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     672,
+     568
+    ],
+    [
+     721,
+     684
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "umbrella",
+   "points": [
+    [
+     135,
+     505
+    ],
+    [
+     208,
+     545
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "032.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     -1,
+     514
+    ],
+    [
+     144,
+     952
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     403,
+     462
+    ],
+    [
+     430,
+     539
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     372,
+     483
+    ],
+    [
+     393,
+     533
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     336,
+     474
+    ],
+    [
+     360,
+     533
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     585,
+     470
+    ],
+    [
+     719,
+     610
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     563,
+     494
+    ],
+    [
+     619,
+     541
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     114,
+     522
+    ],
+    [
+     220,
+     606
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     241,
+     507
+    ],
+    [
+     288,
+     571
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     211,
+     515
+    ],
+    [
+     257,
+     585
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     279,
+     501
+    ],
+    [
+     318,
+     545
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     285,
+     495
+    ],
+    [
+     325,
+     541
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     198,
+     517
+    ],
+    [
+     244,
+     593
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     272,
+     505
+    ],
+    [
+     307,
+     551
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     259,
+     505
+    ],
+    [
+     302,
+     557
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "umbrella",
+   "points": [
+    [
+     124,
+     482
+    ],
+    [
+     210,
+     524
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

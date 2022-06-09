@@ -1,0 +1,85 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "047.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     112,
+     442
+    ],
+    [
+     187,
+     657
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     229,
+     481
+    ],
+    [
+     298,
+     580
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     33,
+     490
+    ],
+    [
+     104,
+     587
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     295,
+     477
+    ],
+    [
+     379,
+     579
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "motorcycle",
+   "points": [
+    [
+     365,
+     476
+    ],
+    [
+     432,
+     578
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

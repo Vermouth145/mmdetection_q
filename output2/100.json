@@ -1,0 +1,40 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "100.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     468,
+     275
+    ],
+    [
+     718,
+     1228
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     3,
+     299
+    ],
+    [
+     601,
+     772
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

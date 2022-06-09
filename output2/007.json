@@ -1,0 +1,70 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "007.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     168,
+     415
+    ],
+    [
+     267,
+     629
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     49,
+     449
+    ],
+    [
+     137,
+     513
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "fire hydrant",
+   "points": [
+    [
+     592,
+     521
+    ],
+    [
+     611,
+     585
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "handbag",
+   "points": [
+    [
+     169,
+     468
+    ],
+    [
+     206,
+     534
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

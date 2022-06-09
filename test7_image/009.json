@@ -1,0 +1,218 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          521.0
+        ],
+        [
+          144.14414414414412,
+          666.2162162162161
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          564.0
+        ],
+        [
+          51.66666666666666,
+          748.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          540.9909909909909,
+          460.36036036036035
+        ],
+        [
+          720.3513513513514,
+          591.9009009009009
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          679.7297297297297,
+          546.8468468468468
+        ],
+        [
+          719,
+          660
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          148.64864864864865,
+          512.6126126126126
+        ],
+        [
+          209.90990990990989,
+          697.2972972972973
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          220.27027027027026,
+          498.19819819819816
+        ],
+        [
+          288.28828828828824,
+          695.045045045045
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          323.34096109839817,
+          477.34553775743706
+        ],
+        [
+          337.3873873873874,
+          525.6756756756756
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          328.8329519450801,
+          480.5491990846682
+        ],
+        [
+          343.2432432432432,
+          525.2252252252251
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          343.4782608695652,
+          479.4050343249428
+        ],
+        [
+          360.36036036036035,
+          526.1261261261261
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          369.3363844393593,
+          477.11670480549196
+        ],
+        [
+          390.09009009009003,
+          524.7747747747748
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          387.87185354691076,
+          486.27002288329516
+        ],
+        [
+          409.6109839816934,
+          545.0800915331807
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          413.9639639639639,
+          478.37837837837833
+        ],
+        [
+          434.0961098398169,
+          533.8672768878719
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "motorcycle",
+      "points": [
+        [
+          275.65217391304344,
+          493.47826086956513
+        ],
+        [
+          325.65217391304344,
+          525.6521739130434
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "009.jpg",
+  "imageData": null,
+  "imageHeight": 1280,
+  "imageWidth": 720
+}

@@ -1,0 +1,160 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "073.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     505,
+     294
+    ],
+    [
+     673,
+     670
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     300,
+     325
+    ],
+    [
+     384,
+     638
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     52,
+     325
+    ],
+    [
+     127,
+     572
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     357,
+     422
+    ],
+    [
+     423,
+     625
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     171,
+     325
+    ],
+    [
+     206,
+     440
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     140,
+     326
+    ],
+    [
+     182,
+     453
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     390,
+     363
+    ],
+    [
+     423,
+     468
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     419,
+     365
+    ],
+    [
+     511,
+     461
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     443,
+     363
+    ],
+    [
+     715,
+     496
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "bus",
+   "points": [
+    [
+     0,
+     289
+    ],
+    [
+     105,
+     395
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

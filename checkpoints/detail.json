@@ -1,0 +1,47 @@
+{
+    "version": "0.3.0",
+    "codebase": {
+        "task": "ObjectDetection",
+        "codebase": "mmdet",
+        "version": "2.20.0",
+        "pth": "mmdetection/ckeckpoints/yolox_s_8x8_300e_coco_20211121_095711-4592a793.pth",
+        "config": "mmdetection/configs/yolox/yolox_s_8x8_300e_coco.py"
+    },
+    "codebase_config": {
+        "type": "mmdet",
+        "task": "ObjectDetection",
+        "model_type": "ncnn_end2end",
+        "post_processing": {
+            "score_threshold": 0.05,
+            "confidence_threshold": 0.005,
+            "iou_threshold": 0.5,
+            "max_output_boxes_per_class": 200,
+            "pre_top_k": 5000,
+            "keep_top_k": 100,
+            "background_label_id": -1
+        }
+    },
+    "onnx_config": {
+        "type": "onnx",
+        "export_params": true,
+        "keep_initializers_as_inputs": false,
+        "opset_version": 11,
+        "save_file": "end2end.onnx",
+        "input_names": [
+            "input"
+        ],
+        "output_names": [
+            "detection_output"
+        ],
+        "input_shape": [
+            416,
+            416
+        ]
+    },
+    "backend_config": {
+        "type": "ncnn",
+        "precision": "FP32",
+        "use_vulkan": false
+    },
+    "calib_config": {}
+}

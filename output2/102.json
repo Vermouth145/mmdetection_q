@@ -1,0 +1,55 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "102.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     27,
+     340
+    ],
+    [
+     81,
+     424
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     0,
+     345
+    ],
+    [
+     34,
+     437
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     -2,
+     318
+    ],
+    [
+     700,
+     738
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

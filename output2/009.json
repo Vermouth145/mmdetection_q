@@ -1,0 +1,100 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "009.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     163,
+     413
+    ],
+    [
+     237,
+     625
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     506,
+     447
+    ],
+    [
+     531,
+     509
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     0,
+     451
+    ],
+    [
+     32,
+     518
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     46,
+     448
+    ],
+    [
+     107,
+     513
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "fire hydrant",
+   "points": [
+    [
+     605,
+     527
+    ],
+    [
+     624,
+     595
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "handbag",
+   "points": [
+    [
+     161,
+     462
+    ],
+    [
+     196,
+     528
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

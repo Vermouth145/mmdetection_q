@@ -1,0 +1,55 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "003.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     171,
+     402
+    ],
+    [
+     254,
+     616
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "car",
+   "points": [
+    [
+     51,
+     438
+    ],
+    [
+     106,
+     503
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "handbag",
+   "points": [
+    [
+     170,
+     446
+    ],
+    [
+     221,
+     526
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

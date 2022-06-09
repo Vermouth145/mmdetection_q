@@ -1,0 +1,1 @@
+{"config": "configs/yolo/yolov3_no_fpn_d53_mstrain-608_273e_coco.py", "metric": {"bbox_mAP": 0.241, "bbox_mAP_50": 0.532, "bbox_mAP_75": 0.182, "bbox_mAP_s": 0.071, "bbox_mAP_m": 0.194, "bbox_mAP_l": 0.268, "bbox_mAP_copypaste": "0.241 0.532 0.182 0.071 0.194 0.268"}}

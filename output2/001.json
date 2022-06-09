@@ -1,0 +1,40 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "001.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     198,
+     396
+    ],
+    [
+     275,
+     606
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "handbag",
+   "points": [
+    [
+     191,
+     444
+    ],
+    [
+     228,
+     514
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}

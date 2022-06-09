@@ -1,0 +1,218 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "umbrella",
+      "points": [
+        [
+          153.83516483516482,
+          523.0769230769231
+        ],
+        [
+          226.41176470588232,
+          555.8823529411765
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          196.69230769230768,
+          552.1978021978022
+        ],
+        [
+          254.38461538461536,
+          719.2307692307692
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          276.3626373626374,
+          532.4175824175824
+        ],
+        [
+          339.0,
+          713.7362637362637
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          330.9823677581864,
+          516.8765743073047
+        ],
+        [
+          343.3956043956044,
+          562.0879120879121
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          340.6940238602707,
+          520.0777811609046
+        ],
+        [
+          354.4080604534005,
+          561.9647355163728
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          354.6599496221662,
+          518.1360201511335
+        ],
+        [
+          370.86813186813185,
+          562.0879120879121
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          370.3186813186813,
+          516.4835164835165
+        ],
+        [
+          391.19780219780216,
+          560.4395604395604
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          399.24433249370276,
+          525.6926952141058
+        ],
+        [
+          420.6549118387909,
+          585.1385390428211
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "person",
+      "points": [
+        [
+          419.3954659949622,
+          516.8765743073047
+        ],
+        [
+          443.5768261964735,
+          576.0705289672544
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          553.8351648351648,
+          504.94505494505495
+        ],
+        [
+          719.0,
+          630.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          691.7472527472527,
+          587.3626373626373
+        ],
+        [
+          719.0,
+          701.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          560.0
+        ],
+        [
+          152.73626373626374,
+          704.945054945055
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          0.0,
+          588.0
+        ],
+        [
+          60.42857142857143,
+          789.5604395604395
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "001.jpg",
+  "imageData": null,
+  "imageHeight": 1280,
+  "imageWidth": 720
+}

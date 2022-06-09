@@ -1,0 +1,40 @@
+{
+ "version": "5.0.1",
+ "flags": {},
+ "imagePath": "013.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 720,
+ "shapes": [
+  {
+   "label": "person",
+   "points": [
+    [
+     51,
+     432
+    ],
+    [
+     143,
+     648
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  },
+  {
+   "label": "person",
+   "points": [
+    [
+     24,
+     470
+    ],
+    [
+     49,
+     542
+    ]
+   ],
+   "shape_type": "rectangle",
+   "flags": {}
+  }
+ ]
+}
